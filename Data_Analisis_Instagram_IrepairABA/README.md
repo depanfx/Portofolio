@@ -26,7 +26,7 @@ Proyek ini dilakukan untuk mempelajari tren pertumbuhan, interaksi, dan efektivi
 | `Instagram_Analytics.ipynb` | Notebook utama untuk analisis dan visualisasi |
 | `Instagram_Analytics.html`  | Versi HTML dari notebook agar dapat dilihat langsung di browser |
 | `followers_trend.csv`       | Data pertumbuhan followers per tahun |
-| `datafinal_view_aba.ipynb`  | Hasil scraping postingan dan metrik engagement |
+| `dataset_instagram.csv`     | Hasil scraping postingan dan metrik engagement |
 
 ---
 
